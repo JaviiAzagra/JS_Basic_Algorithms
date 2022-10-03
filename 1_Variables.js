@@ -15,10 +15,10 @@ console.log(x);
 console.log(line);
 let h = 5;
 let y = 10;
-console.log("h:",h ,"y:",y);
+console.log("h:" + h + " y:" + y);
 
 /* 1.4 Crea una otra variable 'z' y asignale el valor de 'h' + 'y'. */
 
 console.log(line);
 let z = h + y;
-console.log("La suma de h + y es igual a:",z); 
+console.log("La suma de h + y es igual a: " + z); 
