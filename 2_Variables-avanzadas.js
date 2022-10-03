@@ -31,7 +31,7 @@ console.log(line);
 const toy1 = {name: 'Buss myYear', price: 19};
 const toy2 = {name: 'Rallo mcKing', price: 29};
 
-console.log("La suma de ambos juguetes es: ",toy1.price + toy2.price);
+console.log("La suma de ambos juguetes es: " + (toy1.price + toy2.price));
 
 /* 1.4 Dado el siguiente javascript, actualiza el valor de la variable globalBasePrice a 25000 
 y actualiza la propiedad finalPrice de todos los coches con el valor de su propiedad 
