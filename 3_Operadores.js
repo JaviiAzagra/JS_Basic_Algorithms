@@ -18,9 +18,9 @@ console.log("El resultado es: " + division);
 
 console.log(line);
 
-let rest = 15 % 9;
-/* alert(rest); */
-console.log("El resultado es: " + rest);
+let resto = 15 % 9;
+/* alert(resto); */
+console.log("El resultado es: " + resto);
 
 /* 1.4 Usa el correcto operador de asignación que resultará en x = 15, 
 teniendo dos variables y = 10 y z = 5. */
